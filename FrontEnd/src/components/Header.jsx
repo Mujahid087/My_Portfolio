@@ -4,7 +4,7 @@ import { Link, Events, scrollSpy } from "react-scroll";
 // import {cgMenuRight} from "reacts-icon/cg";
 import { CgMenuRight } from "react-icons/cg";
 import { UserData } from "../data/UserData";
-import  logo  from "../assets/images/logor.png";
+import  logo  from "../assets/images/logor.jpg";
 
 const Header = () => {
     const [isScrolling, setisScrolling] = useState(false);
@@ -52,7 +52,7 @@ const Header = () => {
                         activeClass="active"
                         spy={true}
                         smooth={true}
-                        offset={true}
+                        offset={-250}
                         duration={500}
                         to="Home-section"
                     >

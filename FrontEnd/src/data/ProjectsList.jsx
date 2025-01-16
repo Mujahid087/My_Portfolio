@@ -2,7 +2,7 @@ export  const ProjectsList = {
     projects: [
         {
             name: "Task Management App",
-            decription: "The Task Manager is a web application that allows users to manage their tasks efficiently. It provides features like task creation, updating, deletion, and visualization of task progress.",
+            description: "The Task Manager is a web application that allows users to manage their tasks efficiently. It provides features like task creation, updating, deletion, and visualization of task progress.",
             technologies: [
                 "React JS",
                 "MongoDB",
@@ -13,7 +13,7 @@ export  const ProjectsList = {
             ],
         },
         {
-            name: "Youtune-Clone",
+            name: "Youtube-Clone",
             description: "This project is a YouTube clone built using React.js. The app mimics the functionality of YouTube, including features like video browsing, navigation, and a responsive layout.",
             technologies: [
                 "React JS",

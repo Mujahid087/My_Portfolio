@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import { Link, Events, scrollSpy } from "react-scroll";
-import { CgMenuRight } from "reacts-icons/cg";
+// import { cgMenuRight } from "reacts-icons/cg";
+// import {cgMenuRight} from "reacts-icon/cg";
+import { CgMenuRight } from "react-icons/cg";
 import { UserData } from "../data/UserData";
-import { logo } from "../assets/images/logor.png";
+import  logo  from "../assets/images/logor.png";
 
 const Header = () => {
     const [isScrolling, setisScrolling] = useState(false);

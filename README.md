@@ -72,8 +72,7 @@ The optimized build will be available in the `build` folder.
 
 ### Deployment
 
-You can deploy the `build` folder to any static hosting service like [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [GitHub Pages](https://pages.github.com/).
-
+You can deploy the `build` folder to any static hosting service like , [Netlify](https://mujaa.netlify.app/), 
 
 
 

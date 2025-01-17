@@ -37,15 +37,13 @@ Ensure you have the following installed on your system:
 2. Navigate to the project directory:
 
    ```bash
-   cd portfolio
+   cd My_Portfolio
    ```
 
 3. Install dependencies:
 
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 ### Running the Project
@@ -54,14 +52,12 @@ Ensure you have the following installed on your system:
 
    ```bash
    npm start
-   # or
-   yarn start
    ```
 
 2. Open your browser and navigate to:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ### Building the Project

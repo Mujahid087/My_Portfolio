@@ -66,8 +66,6 @@ To build the project for production:
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 The optimized build will be available in the `build` folder.
